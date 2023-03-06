@@ -1,2 +1,2 @@
 all:
-	gcc app/main.c -o compiled_app
+	gcc app/main.c -o compiled-app
